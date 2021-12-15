@@ -13,7 +13,7 @@ Technologies employed:
 
 You will need **Node.js version 14** to run this service (which is the latest version supported by [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html) since writing).
 
-You will also need the Serverless Framework CLI, which you can get with:
+You will also need the **Serverless Framework CLI**, which you can get with:
 ```
 sudo npm i -g serverless
 ```
