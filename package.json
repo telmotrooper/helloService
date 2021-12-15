@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx sls invoke local -f hello"
+  },
+  "devDependencies": {
+    "serverless-plugin-typescript": "^2.1.0",
+    "typescript": "^4.5.4"
+  }
+}
