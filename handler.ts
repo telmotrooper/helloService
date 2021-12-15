@@ -8,4 +8,4 @@ export const hello = async (event) => ({
     null,
     2
   ),
-});
+})
