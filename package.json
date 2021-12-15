@@ -1,11 +1,16 @@
 {
   "scripts": {
-    "start": "npx sls invoke local -f hello"
+    "start": "npx sls offline"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.7.0",
     "@typescript-eslint/parser": "^5.7.0",
     "eslint": "^8.4.1",
+    "serverless-offline": "^8.3.1",
     "serverless-plugin-typescript": "^2.1.0",
     "typescript": "^4.5.4"
   }
